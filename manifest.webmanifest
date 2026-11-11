@@ -1,0 +1,17 @@
+{
+  "name": "APP ASCII",
+  "short_name": "APP ASCII",
+  "description": "Convierte texto en códigos ASCII: decimal, hexadecimal, octal y binario.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF2F8",
+  "theme_color": "#1E293B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
